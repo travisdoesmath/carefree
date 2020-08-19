@@ -1,0 +1,1 @@
+A Chrome extension to allow facebook users to replace the "care" react with a custom image. 
